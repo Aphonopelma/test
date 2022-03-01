@@ -1,3 +1,3 @@
 Git is a version control system.
 Git is free software.
-sb
+Git is free software distributed uder the GPL
